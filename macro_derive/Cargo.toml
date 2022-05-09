@@ -1,0 +1,12 @@
+[package]
+name = "macro_derive"
+version = "0.1.0"
+authors = ["svorr"]
+edition = "2018"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "1.0.45"
+quote = "1.0.7"

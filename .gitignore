@@ -1,0 +1,5 @@
+target/
+pkg/
+www/node_modules/
+www/dist/
+www/wasm-pack.log
